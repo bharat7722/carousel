@@ -1,0 +1,168 @@
+.landing__app-wrapper {
+    position: relative;
+    width: 100%;
+    background-color: #fff;
+}
+
+.landing__app-wrapper .navbar {
+    position: sticky;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 14px 0;
+    background-color: #fff;
+    transition: .3s;
+    z-index: 999;
+}
+
+.landing__app-wrapper .navbar.is__scrolled {
+    padding: 10px 0;
+    box-shadow: 2px 0 10px 0 rgba(0, 0, 0, .05);
+}
+
+.landing__app-wrapper .nav {
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.landing__app-wrapper .nav .logo {
+    display: block;
+    width: 170px;
+}
+
+.landing__app-wrapper .nav .menus {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.landing__app-wrapper .nav .menus .btn {
+    font-weight: 700;
+    font-size: 16px;
+    padding: 6px;
+}
+
+.landing__app-wrapper .nav .menus .btn.active {
+    color: #4A00E0;
+}
+
+.landing__app-wrapper .nav .menus .btn span {
+    font-weight: 400 !important;
+    font-size: 12px !important;
+}
+
+@media (max-width: 992px) {
+    .landing__app-wrapper .nav .logo {
+        width: 130px;
+    }
+}
+
+.landing__app-wrapper .header {
+    position: relative;
+    width: 100%;
+    padding: 100px 0;
+}
+
+.landing__app-wrapper .header h1 {
+    font-size: 60px;
+    font-weight: 700;
+    padding: 26px 0;
+}
+
+@media (max-width: 992px) {
+    .landing__app-wrapper .header h1 {
+        font-size: 45px;
+    }
+}
+
+.landing__app-wrapper section {
+    position: relative;
+    width: 100%;
+    padding: 70px 0;
+}
+
+.landing__app-wrapper section .section__title {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.landing__app-wrapper section .section__title h2 {
+    margin: 0;
+    font-weight: 700 !important;
+}
+
+.landing__app-wrapper .accordion-item {
+    margin: 16px 0;
+    border-radius: 0 !important;
+    border: 1px solid rgba(74, 0, 224, .2) !important;
+}
+
+.landing__app-wrapper .accordion-item button {
+    box-shadow: none !important;
+    border-radius: 0 !important;
+    font-weight: 600 !important;
+}
+
+.landing__app-wrapper .accordion-item button::after {
+    content: "\2b";
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    background-image: none !important;
+    transform: none !important;
+}
+
+.landing__app-wrapper .accordion-item .accordion-button:not(.collapsed) {
+    background-color: rgba(74, 0, 224, .2) !important;
+    color: #4A00E0 !important;
+}
+
+.landing__app-wrapper .accordion-item .accordion-button:not(.collapsed)::after {
+    content: "\f068";
+}
+
+.landing__app-wrapper .bigger__text {
+    font-size: 100px;
+    font-weight: 700;
+}
+
+@media (max-width: 1200px) {
+    .landing__app-wrapper .bigger__text {
+        font-size: 70px;
+    }
+}
+
+@media (max-width: 992px) {
+    .landing__app-wrapper .bigger__text {
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 567px) {
+    .landing__app-wrapper .bigger__text {
+        font-size: 30px;
+    }
+}
+
+.landing__app-wrapper .features__card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, .05);
+}
+
+.landing__app-wrapper .features__card .icon {
+    font-size: 50px;
+}
+
+.landing__app-wrapper footer {
+    position: relative;
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+}

@@ -1,0 +1,123 @@
+[
+	{
+	  "id": "palette1",
+	  "color1": "#B36BF7",
+	  "color2": "#FFFFFF",
+	  "color3": "#000000"
+	},
+	{
+	  "id": "palette2",
+	  "color1": "#EB546F",
+	  "color2": "#FFFFFF",
+	  "color3": "#220257"
+	},
+	{
+	  "id": "palette3",
+	  "color1": "#56a3f5",
+	  "color2": "#ffffff",
+	  "color3": "#06247f"
+	},
+	{
+	  "id": "palette4",
+	  "color1": "#1a1d29",
+	  "color2": "#e6e6e6",
+	  "color3": "#c5c5ff"
+	},
+	{
+	  "id": "palette5",
+	  "color1": "#1c1c1c",
+	  "color2": "#ffffff",
+	  "color3": "#ee834e"
+	},
+	{
+	  "id": "palette6",
+	  "color1": "#a0e5e7",
+	  "color2": "#67727e",
+	  "color3": "#d4674c"
+	},
+	{
+	  "id": "palette7",
+	  "color1": "#feb5b5",
+	  "color2": "#0567a8",
+	  "color3": "#000000"
+	},
+	{
+	  "id": "palette8",
+	  "color1": "#fbe68a",
+	  "color2": "#474747",
+	  "color3": "#ff5b46"
+	},
+	{
+	  "id": "palette9",
+	  "color1": "#F2D7EE",
+	  "color2": "#262626",
+	  "color3": "#4F4A7C"
+	},
+	{
+	  "id": "palette10",
+	  "color1": "#D6DBB2",
+	  "color2": "#3C3C3C",
+	  "color3": "#e88411"
+	},
+	{
+	  "id": "palette11",
+	  "color1": "#F9E2D2",
+	  "color2": "#2C2C2C",
+	  "color3": "#8491C3"
+	},
+	{
+	  "id": "palette12",
+	  "color1": "#280647",
+	  "color2": "#b3aee9",
+	  "color3": "#96f7d2"
+	},
+	{
+	  "id": "palette13",
+	  "color1": "#EE8271",
+	  "color2": "#FFFFFF",
+	  "color3": "#4D0A65"
+	},
+	{
+	  "id": "palette14",
+	  "color1": "#1a223a",
+	  "color2": "#e4e4eb",
+	  "color3": "#ffaf87"
+	},
+	{
+	  "id": "palette15",
+	  "color1": "#1e1e1e",
+	  "color2": "#f2f2f2",
+	  "color3": "#52c3c9"
+	},
+	{
+	  "id": "palette16",
+	  "color1": "#2d2d2d",
+	  "color2": "#f5f5f5",
+	  "color3": "#ffcc66"
+	},
+	{
+	  "id": "palette17",
+	  "color1": "#1e140f",
+	  "color2": "#e6d2b1",
+	  "color3": "#ff9a8d"
+	},
+	{
+	  "id": "palette18",
+	  "color1": "#173d4e",
+	  "color2": "#e1f1f1",
+	  "color3": "#ffb347"
+	},
+	{
+	  "id": "palette19",
+	  "color1": "#674da0",
+	  "color2": "#ffffff",
+	  "color3": "#fac318"
+	},
+	{
+	  "id": "palette20",
+	  "color1": "#9e6eff",
+	  "color2": "#2b1a30",
+	  "color3": "#ffffff"
+	}
+  ]
+  

@@ -1,0 +1,29 @@
+.d-none{
+  display: none;
+}
+
+.custom-carousel .carousel-indicators {
+  z-index: 1;
+}
+
+.custom-carousel .carousel-inner {
+  position: relative;
+}
+
+.custom-carousel .carousel-item {
+  position: relative;
+}
+
+.custom-carousel .carousel-item::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(237, 9, 9, 0.8); /* Adjust the background color and transparency as needed */
+  z-index: 0;
+}
+.ig-feed{
+  height: 900px;
+}
